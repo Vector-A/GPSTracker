@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GPSTracker</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="Reg">Register</string>
+    <string name="signup">Signup</string>
+    <string name="no">or </string>
+    <string name="name">Full name</string>
+    <string name="welcome">Welcome</string>
+    <string name="userN">user name</string>
+    <string name="location">Location:</string>
+    <string name="save">Save</string>
+    <string name="deviceName">Device Name</string>
+    <string name="safeDist">Safe Range in m</string>
+    <string name="uid">UID:</string>
+    <string name="togglebutton">ToggleButton</string>
+</resources>
