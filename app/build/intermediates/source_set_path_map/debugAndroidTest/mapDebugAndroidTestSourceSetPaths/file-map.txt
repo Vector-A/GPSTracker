@@ -1,0 +1,5 @@
+com.example.gpstracker.test.app-androidTest-0 C:\Users\adeju\AndroidStudioProjects\GPSTracker\app\build\generated\res\resValues\androidTest\debug
+com.example.gpstracker.test.app-mergeDebugAndroidTestResources-1 C:\Users\adeju\AndroidStudioProjects\GPSTracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.gpstracker.test.app-mergeDebugAndroidTestResources-2 C:\Users\adeju\AndroidStudioProjects\GPSTracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.gpstracker.test.app-debugAndroidTest-3 C:\Users\adeju\AndroidStudioProjects\GPSTracker\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.example.gpstracker.test.app-core-1.6.1-4 E:\adeju\.gradle\caches\transforms-3\30a21c3cc945d13e8af630d314ec6da0\transformed\core-1.6.1\res

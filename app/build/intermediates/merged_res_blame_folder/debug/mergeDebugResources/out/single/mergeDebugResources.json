@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_settings_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\settings_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_logo_2_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\logo_2_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable_boarder2.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\drawable\\boarder2.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_settings2_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\settings2_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_settings.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\settings.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_logo.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\logo.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_logo_2.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\logo_2.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-anydpi-v26_icon_round.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-anydpi-v26\\icon_round.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_icon.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\icon.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable-ldpi_exclude.png.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-pngs-0:\\drawable-ldpi\\exclude.png"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable_blue_stripe_top_right.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\drawable\\blue_stripe_top_right.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_logo_2_foreground.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\logo_2_foreground.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable_settings2_foreground.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\drawable\\settings2_foreground.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_logo_2_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\logo_2_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-anydpi-v26_settings_round.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-anydpi-v26\\settings_round.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable_logo_for_gps_tracking_app.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\drawable\\logo_for_gps_tracking_app.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_logo_2.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\logo_2.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_settings2_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\settings2_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_logo_2_foreground.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\logo_2_foreground.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_settings_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\settings_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_logo_2_foreground.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\logo_2_foreground.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_settings.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\settings.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-anydpi-v26_logo_2.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-anydpi-v26\\logo_2.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_settings2.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\settings2.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_logo_foreground.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable-anydpi-v24_exclude.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-pngs-0:\\drawable-anydpi-v24\\exclude.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_settings2_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\settings2_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable_boarder.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\drawable\\boarder.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable_blue_stripe_bottom_left.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\drawable\\blue_stripe_bottom_left.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_settings_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\settings_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-anydpi-v26_settings.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-anydpi-v26\\settings.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_settings2.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\settings2.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\layout_activity_main2.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_icon.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\icon.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable_icon_foreground.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\drawable\\icon_foreground.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_logo_2_foreground.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\logo_2_foreground.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-anydpi-v26_logo_2_round.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-anydpi-v26\\logo_2_round.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_settings_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\settings_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_logo.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\logo.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_logo_foreground.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_icon.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\icon.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_logo.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\logo.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable-xxxhdpi_exclude.png.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-pngs-0:\\drawable-xxxhdpi\\exclude.png"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_icon.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\icon.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_icon_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\icon_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-anydpi-v26_icon.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-anydpi-v26\\icon.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_logo_foreground.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_settings2.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\settings2.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_logo.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\logo.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable_settings_foreground.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\drawable\\settings_foreground.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable-mdpi_exclude.png.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-pngs-0:\\drawable-mdpi\\exclude.png"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\layout_activity_main.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\layout_activity_main3.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable_rounded_edittext.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_logo_2.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\logo_2.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\layout_test.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\layout\\test.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_logo_foreground.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_logo_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable_edit_text_background.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "com.example.gpstracker.app-debug-5:/layout_activity_main3.xml.flat",
+        "source": "com.example.gpstracker.app-main-7:/layout/activity_main3.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_logo_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\logo_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_logo_foreground.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_settings2.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\settings2.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_logo_2.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\logo_2.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable-hdpi_exclude.png.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-pngs-0:\\drawable-hdpi\\exclude.png"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_logo_2_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\logo_2_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_logo_2_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\logo_2_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_settings2_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\settings2_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-anydpi-v26_settings2.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-anydpi-v26\\settings2.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-anydpi-v26_logo.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-anydpi-v26\\logo.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable-xhdpi_exclude.png.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-pngs-0:\\drawable-xhdpi\\exclude.png"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable_white_boarder.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\drawable\\white_boarder.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_logo_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\logo_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_icon_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\icon_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_icon_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\icon_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_settings2_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\settings2_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_settings2.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\settings2.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_settings.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\settings.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_logo_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable_rounded_button.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-hdpi_icon_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-hdpi\\icon_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxhdpi_settings.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxhdpi\\settings.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_settings.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\settings.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_logo_2_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\logo_2_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_logo_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\xml_backup_rules.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_logo_2.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\logo_2.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-anydpi-v26_settings2_round.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-anydpi-v26\\settings2_round.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_icon.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\icon.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xhdpi_logo.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xhdpi\\logo.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\drawable-xxhdpi_exclude.png.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-pngs-0:\\drawable-xxhdpi\\exclude.png"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-xxxhdpi_logo_2_foreground.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-xxxhdpi\\logo_2_foreground.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-anydpi-v26_logo_round.xml.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-anydpi-v26\\logo_round.xml"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_settings_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\settings_round.webp"
+    },
+    {
+        "merged": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-debug-5:\\mipmap-mdpi_icon_round.webp.flat",
+        "source": "E:\\adeju\\.gradle\\daemon\\8.4\\com.example.gpstracker.app-main-7:\\mipmap-mdpi\\icon_round.webp"
+    }
+]

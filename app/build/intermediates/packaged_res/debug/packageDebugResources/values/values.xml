@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="icon_background">#296084</color>
+    <color name="logo_2_background">#FDFDFD</color>
+    <color name="logo_background">#0A131C</color>
+    <color name="settings2_background">#E2E8ED</color>
+    <color name="settings_background">#296084</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Reg">Register</string>
+    <string name="app_name">GPSTracker</string>
+    <string name="deviceName">Device Name</string>
+    <string name="gcm_defaultSenderId" translatable="false">962490226253</string>
+    <string name="google_api_key" translatable="false">AIzaSyDyh62hp7PDg0p_-FpxkR7iRQq3U2Dvlqo</string>
+    <string name="google_app_id" translatable="false">1:962490226253:android:ad4660eeac9a915a15ae04</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDyh62hp7PDg0p_-FpxkR7iRQq3U2Dvlqo</string>
+    <string name="google_storage_bucket" translatable="false">gps-tracker-1cb0b.firebasestorage.app</string>
+    <string name="location">Location:</string>
+    <string name="login">Login</string>
+    <string name="name">Full name</string>
+    <string name="no">or </string>
+    <string name="pass">Password</string>
+    <string name="project_id" translatable="false">gps-tracker-1cb0b</string>
+    <string name="safeDist">Safe Range in m</string>
+    <string name="save">Save</string>
+    <string name="signup">Signup</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="uid">UID:</string>
+    <string name="user">Username</string>
+    <string name="userN">user name</string>
+    <string name="welcome">Welcome</string>
+    <style name="Base.Theme.GPSTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.GPSTracker" parent="Base.Theme.GPSTracker"/>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <!-- Top-right Decorative Blue Stripe -->
+    <ImageView
+        android:id="@+id/topRightStripe"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="-30dp"
+        android:layout_marginEnd="-30dp"
+        android:src="@drawable/blue_stripe_top_right"
+        android:scaleType="fitCenter" />
+
+    <!-- Bottom-left Decorative Blue Stripe -->
+    <ImageView
+        android:id="@+id/bottomLeftStripe"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-30dp"
+        android:layout_marginBottom="-30dp"
+        android:src="@drawable/blue_stripe_bottom_left"
+        android:scaleType="fitCenter" />
+
+    <!-- Welcome Text -->
+    <TextView
+        android:id="@+id/tvWelcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WELCOME"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#0099FF"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <!-- Email EditText -->
+    <EditText
+        android:id="@+id/etEmail"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/tvWelcome"
+        android:layout_marginTop="40dp"
+        android:layout_marginHorizontal="40dp"
+        android:hint="Email"
+        android:padding="10dp"
+        android:background="@drawable/rounded_edittext"
+        android:inputType="textEmailAddress" />
+
+    <!-- Password EditText -->
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/etEmail"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="40dp"
+        android:hint="Password"
+        android:padding="10dp"
+        android:background="@drawable/rounded_edittext"
+        android:inputType="textPassword" />
+
+    <!-- Login Button -->
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@id/etPassword"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:paddingHorizontal="60dp"
+        android:text="LOGIN"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/rounded_button" />
+
+</RelativeLayout>
